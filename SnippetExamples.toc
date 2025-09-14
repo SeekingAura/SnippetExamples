@@ -1,0 +1,12 @@
+## Interface: 110200, 110205
+## Title: Snippet Examples
+## Version: 0.0.0
+
+## Notes: Toggle Nameplates Enemy and friend with single button (one activated and another deactivated)
+## Author: SeekingAura
+## SavedVariables: TogglePlates
+
+## X-Curse-Project-ID:
+## X-Wago-ID: 
+
+TogglePlates.lua
